@@ -1,0 +1,8 @@
+/**
+ * GRAFOS APP
+ * Aplicacion de escritorio realizada para crear y hacer groficamente un grafo no
+ * dirigido. Permite evaluar las propiedades de un grafo tanto simple como multiple.
+ * 
+ * WILMER RODRIGUEZ SANCHEZ
+ * 2020 - 2
+ */
