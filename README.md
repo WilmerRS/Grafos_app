@@ -12,6 +12,9 @@ Graphs APP is a small application that allows you to create simple graphs throug
 or creating nodes and links graphically.
 
 ## 📷 Appplication screenshots
+<div align="center">
+    <img src="https://raw.githubusercontent.com/WilmerRS/Grafos_app/master/src/icons/1x/Screen_3.png" width="1000"/>
+</div>
 
 ## 🐋 To get started
 
