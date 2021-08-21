@@ -16,7 +16,7 @@ or creating nodes and links graphically.
     <img src="https://raw.githubusercontent.com/WilmerRS/Grafos_app/master/src/icons/1x/Screen_3.png" width="1000"/>
 </div>
 
-## 🐋 To get started
+## 🐋 To get started 
 
 1. Install and configure Java 8 or later and JVM.
 2. Clone this repository: `https://github.com/WilmerRS/Grafos_app.git`.
